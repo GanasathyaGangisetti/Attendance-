@@ -124,9 +124,9 @@ background-image:url('https://assets.thehansindia.com/h-upload/feeds/2019/03/23/
     <!-- Student Profile -->
     <div class="profile-card">
       <img src="https://static.vecteezy.com/system/resources/thumbnails/005/427/608/small_2x/young-indian-student-holding-diary-file-in-hand-free-photo.JPG" alt="Student Photo">
-      <h3>G surya Akhilesh</h3>
-      <p>Regd No: 22B91A6155</p>
-      <p>Aiml: A</p>
+      <h3>G Ganasathya</h3>
+      <p>Regd No: 23B95A5412</p>
+      <p>Aids: A</p>
     </div>
 
     <!-- Attendance Summary -->
